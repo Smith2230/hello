@@ -4,7 +4,7 @@ pipeline {
         docker_app = "go_app"
         GOCACHE = "/tmp"
         registry = "155.98.37.87"
-        userid = "lngo"
+        userid = "zs947869"
     }
     stages {
         stage('Build') {
